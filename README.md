@@ -4,12 +4,12 @@ This is a backend REST API built with **NestJS**, **Prisma**, and **PostgreSQL**
 
 ## 🚀 Tech Stack
 
-* [cite_start]**Framework:** NestJS (Node.js) [cite: 3]
+* **Framework:** NestJS (Node.js)
 * **Language:** TypeScript
 * **Database:** PostgreSQL
-* [cite_start]**ORM:** Prisma [cite: 3]
+* **ORM:** Prisma
 * **Authentication:** JWT (JSON Web Tokens) with Passport & Bcrypt
-* [cite_start]**Documentation:** Swagger (OpenAPI) [cite: 3]
+* **Documentation:** Swagger (OpenAPI)
 
 ---
 
